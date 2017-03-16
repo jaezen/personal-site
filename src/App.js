@@ -25,11 +25,11 @@ class App extends Component {
             <NavItem eventKey={2} href="#">Connect</NavItem>
           </Nav>
         </Navbar>
-    <Jumbotron>
+      <Jumbotron>
       <h1>I solve fuzzy tech marketing problems</h1>
         <p>From YC startups to globally listed tech leaders</p>
         <p><Button bsStyle="primary">Learn more</Button></p>
-    </Jumbotron>
+      </Jumbotron>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
@@ -37,6 +37,9 @@ class App extends Component {
         <p>
         Made by Jaezen
         </p>
+        <div className="Footer">
+         <p>© 2017 Jaezen. All Rights Reserved.</p>
+        </div>
       </div>
     );
   }
