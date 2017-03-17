@@ -9,6 +9,7 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
+  align-self:left;
 }
 
 .App-header {
@@ -18,6 +19,28 @@
   color: white;
 }
 
+.Navbar{
+  font-family: sans-serif;
+}
+
+.Grid{
+  width:800px;
+}
+
+.Row-1{
+  background-color: blue;
+  height:250px;
+}
+
+.Row-2{
+  background-color: yellow;
+  height:250px;
+}
+
+.Row-3{
+  background-color: red;
+  height:250px;
+}
 
 .App-intro {
   font-size: large;
@@ -25,10 +48,7 @@
 
 .Footer {
   font-size: medium;
-  position:absolute;
-  left:0;
-  bottom:0;
-  right:0;
+  flex:0 0 auto;
 }
 
 @keyframes App-logo-spin {
