@@ -22,28 +22,20 @@ class App extends Component {
           </Navbar.Header>
           <Nav pullRight>
             <NavItem><Link to="/Work">Work</Link></NavItem>
-            <NavItem eventKey={2} href="#">Services</NavItem>
-            <NavItem eventKey={1} href="#">Blog</NavItem>
-            <NavItem eventKey={2} href="#">Connect</NavItem>
+            <NavItem><Link to="/Services">Services</Link></NavItem>
+            <NavItem><Link to="/Blog">Blog</Link></NavItem>
+            <NavItem><Link to="/Connect">Connect</Link></NavItem>
           </Nav>
-          {this.props.children}
         </Navbar>
       <Jumbotron className="Jumbotron">
-      <h1>I solve fuzzy tech marketing problems</h1>
-        <p>From YC startups to globally listed tech leaders</p>
+      <h1>I <strong>solve</strong> fuzzy tech marketing <strong>problems</strong></h1>
+        <p>From YC startups to globally listed leaders</p>
         &#9660;
       </Jumbotron>
       <div className="heroImg">
         <img src={wallLean} className="wallLean" alt="wallLean" />
       </div>
-      <Button bsStyle="primary" bsSize="large">Large button</Button>
-      <Grid className="Grid">
-        <Row className="Row-1">
-          <Col xs={6} md={4}>Clients & Creation</Col>
-          <Col xs={6} md={4}>How I can help you</Col>
-          <Col xs={6} md={4}>Things I think about</Col>
-        </Row>
-      </Grid>
+      {this.props.children}
         <div className="Footer">
          <p>© 2017 jaezen. All Rights Reserved.</p>
         </div>

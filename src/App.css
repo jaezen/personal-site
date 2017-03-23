@@ -18,7 +18,7 @@
 }
 
 .Navbar{
-  font-size: 24;
+  font-size: 50;
   color: black;
   background-color: white;
 }
@@ -38,12 +38,6 @@
   flex: auto;
   padding-top: 20px;
   padding-bottom: 50px;
-}
-
-.Row-1{
-  font-size: 20px;
-  color: #2A1FF4;
-  height:20px;
 }
 
 .App-intro {
