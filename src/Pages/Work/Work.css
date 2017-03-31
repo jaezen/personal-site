@@ -1,12 +1,20 @@
+.Work-header {
+  padding-top: 100px;
+}
+
+.Heading {
+  font-size: 50px;
+  font-weight: bold;
+  color: #0D2AD1;
+}
+
 .Client {
-  background-color: red;
   text-align: left;
   vertical-align: middle;
   padding: 20px;
 }
 
 .Creation {
-  background-color: green;
   text-align: left;
   vertical-align: middle;
   padding: 20px;

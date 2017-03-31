@@ -8,13 +8,12 @@ class Services extends Component {
     return (
       <div className="Services">
         <div className="Services-header"></div>
-          <h1 pullLeft>FUZZY MARKETING</h1>
           <div className="Content">
-            <h2>CLIENTS</h2>
+            <h1 className="Heading">WAYS I CAN HELP YOU</h1>
               <Grid className="Grid">
-                <Row className="Client">
+                <Row className="Type">
                    <Col xs={4} md={3}>
-                    <h3>Messaging</h3>
+                    <h3 className="Title">Messaging</h3>
                    </Col>
                   <Col xs={12} md={8}>
                     <p><strong>PROBLEM</strong> - Many tech companies struggle to communicate business value. This often happens because they are engineering heavy, so the team likes to geek out about the tech, not the real value. </p>
@@ -22,9 +21,9 @@ class Services extends Component {
                     <p><strong>METHOD</strong> - I’ll Services deeply with your team to understand everything from your industry, product, customers, competitors, strategy and customer concerns to nail the right message. </p>
                   </Col>
                 </Row>
-                <Row className="Client">
+                <Row className="Type">
                    <Col xs={4} md={3}>
-                    <h3>Product</h3>
+                    <h3 className="Title">Product</h3>
                    </Col>
                   <Col xs={12} md={8}>
                     <p><strong>PROBLEM</strong> - Knowing what your customers want isn’t always intuitive. That makes knowing what product to build really hard. Even if you’ve built the right product, communicating the value is another hurdle to convince people to pay for it. </p>
@@ -32,9 +31,9 @@ class Services extends Component {
                     <p><strong>METHOD</strong> - I’ll go into the wild to observe, talk and listen to your customers about what really annoys them. I’ll refine and rank these pain points, relay that back to the product team and fine tune what value propositions, use cases and customer stories should be highlighted. </p>
                   </Col>
                 </Row>
-                <Row className="Client">
+                <Row className="Type">
                    <Col xs={4} md={3}>
-                    <h3>Content</h3>
+                    <h3 className="Title">Content</h3>
                    </Col>
                   <Col xs={12} md={8}>
                     <p><strong>PROBLEM</strong> - Having a spectacular product or service is great. But letting people know about isn’t that easy, especially in a noisy market full of others. Paid online marketing is nice, but can be very expensive. Offline marketing is great, but doesn’t scale. So how do you reach people in an inexpensive and scalable way? </p>

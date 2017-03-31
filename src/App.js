@@ -8,29 +8,18 @@ import { Navbar,Nav,NavItem,Jumbotron,Button,Grid,Col,Row} from 'react-bootstrap
 import { StickyContainer, Sticky } from 'react-sticky';
 
 import logo from './logo.svg';
-import wallLean from './Images/wallLean.jpg';
-//import profileShot from './Images/profileShot.jpeg';
+
+
 
 import './App.css';
 //
-// import App from './App';
+
+import Home from './Pages/Home/Home';
 import Work from './Pages/Work/Work';
 import Services from './Pages/Services/Services';
 import Blog from './Pages/Blog/Blog';
 import Connect from './Pages/Connect/Connect';
 
-const Home = () => (
-  <div>
-    <Jumbotron className="Jumbotron">
-    <h1>I <strong>solve</strong> fuzzy tech marketing <strong>problems</strong></h1>
-      <p>From YC startups to globally listed leaders</p>
-      &#9660;
-    </Jumbotron>
-    <div className="heroImg">
-      <img src={wallLean} className="wallLean" alt="wallLean" />
-    </div>
-  </div>
-);
 
 const Footer = () => (
   <div className="Footer">

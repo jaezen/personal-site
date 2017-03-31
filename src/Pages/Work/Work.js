@@ -21,9 +21,9 @@ class Work extends Component {
     return (
       <div className="Work">
         <div className="Work-header"></div>
-          <h1 pullLeft>CLENTS & CREATION</h1>
+          <h1 className="Heading">CLENTS + CREATION</h1>
           <div className="Content">
-            <h2>CLIENTS</h2>
+            <h2><strong>CLIENTS</strong></h2>
               <Grid className="Grid">
                 <Row className="Client">
                    <Col xs={4} md={3}>
@@ -125,7 +125,7 @@ class Work extends Component {
                   </Col>
                 </Row>
               </Grid>
-            <h2>CREATION</h2>
+            <h2><strong>CREATION</strong></h2>
               <Grid className="Grid">
               <Row className="Creation">
                  <Col xs={4} md={3}>

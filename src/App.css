@@ -25,31 +25,8 @@
 }
 
 
-
-.Jumbotron{
-  background-color: white;
-  color: #2A1FF4;
-}
-
-.wallLean{
-  height: 550px;
-  width: 800px;
-}
-
-.Grid{
-  width:800px;
-  flex: auto;
-  padding-top: 20px;
-  padding-bottom: 50px;
-}
-
 .App-intro {
   font-size: large;
-}
-
-.Footer {
-  font-size: medium;
-  flex:0 0 auto;
 }
 
 @keyframes App-logo-spin {
@@ -63,9 +40,13 @@
 }
 
 .navbar-default {
-  background-color: red;
+  color: #1C0F13;
+  background-color: white;
 }
 
 .navbar-default a {
-  color: green;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 20px;
+  color: #1C0F13;
 }
