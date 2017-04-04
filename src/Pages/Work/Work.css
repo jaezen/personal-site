@@ -10,12 +10,69 @@
 
 .Client {
   text-align: left;
-  vertical-align: middle;
+  vertical-align: top;
   padding: 20px;
 }
 
 .Creation {
+  padding-top: 30px;
   text-align: left;
   vertical-align: middle;
   padding: 20px;
+}
+
+.ForbesLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.CitusDataLogo {
+  width: 150px;
+  height: 100px;
+
+}
+
+.AmpdEnergyLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.OriginalStitchLogo {
+  width: 120px;
+  height: 70px;
+}
+
+.GoBoldLogo {
+  width: 140px;
+  height: 60px;
+}
+
+.GWCLogo {
+  width: 140px;
+  height: 60px;
+}
+
+.CeleryLogo {
+  width: 140px;
+  height: 60px;
+}
+
+.AppAnnieLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.TechNodeLogo {
+  width: 140px;
+  height: 60px;
+}
+
+.KoombahLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.AsiaReconLogo {
+  width: 130px;
+  height: 100px;
 }
