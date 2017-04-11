@@ -1,4 +1,9 @@
 import React, { Component } from 'react';
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from 'react-router-dom';
 import './Services.css';
 import 'bootstrap/less/bootstrap.less';
 import { Navbar,Nav,NavItem,Jumbotron,Button,Grid,Col,Row} from 'react-bootstrap';
@@ -42,6 +47,7 @@ class Services extends Component {
                   </Col>
                 </Row>
               </Grid>
+              <Button className="Button" bsStyle="default" bsSize="large"><Link className="App-myLink" to="/connect">Let's Talk</Link></Button>
           </div>
       </div>
     );

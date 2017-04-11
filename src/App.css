@@ -37,6 +37,7 @@
 .Footer {
   font-size: medium;
   flex: 0 0 auto;
+  padding-top: 30px;
 }
 
 .navbar-default {
