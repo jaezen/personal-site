@@ -1,0 +1,63 @@
+.Connect-header {
+  padding-top: 100px;
+}
+
+.Type {
+  text-align: left;
+  padding: 20px;
+}
+
+.Heading {
+  font-size: 50px;
+  font-weight: bold;
+  color: #0D2AD1;
+}
+
+.Title {
+  font-weight: bold;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.Type {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.Grid{
+  width:800px;
+  flex: auto;
+}
+
+.Button {
+padding-top:20px;
+padding-bottom: 20px;
+
+}
+
+.email {
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.linkedin{
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.github {
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.twitter {
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.clarity {
+  width: 120px;
+  height: 55px;
+  margin-top: 30px;
+  margin-left: 40px;
+}

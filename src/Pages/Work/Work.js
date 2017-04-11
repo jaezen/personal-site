@@ -195,7 +195,7 @@ class Work extends Component {
                   <p><strong>Achievements</strong></p>
                     <li>Successfully ran a tech tour to Singapore, Shanghai and Beijing for 15 delegates including government, entrepreneurs and investors</li>
                     <li>Influenced and facilitated the expansion of Australia’s largest co-working space, Fishburners, into Shanghai </li>
-                    <li>AsiaRecon Co-founder, Mathew Benjamin is asked to design and deliver the first-ever cross-border FinTech incubation program to China for Stone & Chalk, a government sponsored initiative</li>
+                    <li>AsiaRecon Co-founder, Mathew Benjamin designed and delivered the first-ever cross-border FinTech incubation program to China for Stone & Chalk, a government sponsored initiative</li>
                   <p><strong>Referral</strong> - “One of the most enjoyable parts of the program was the relationships I formed with the other delegates and conversations we had througout the trip.” Jackie Ariston, Community and Program Manager, ATP Innovations</p>
                 </Col>
               </Row>

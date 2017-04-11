@@ -41,7 +41,6 @@
 }
 
 .navbar-default {
-  color: red;
   background-color: white;
 }
 
@@ -49,5 +48,5 @@
   font-family: helvetica;
   font-weight: bold;
   font-size: 20px;
-  color: #1C0F13;
+  color: #645B5D;
 }
