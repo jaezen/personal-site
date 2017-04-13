@@ -36,7 +36,7 @@ class Work extends Component {
                     <div><img src={ForbesLogo} className="ForbesLogo" alt="ForbesLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="https://www.forbes.com/sites/jlim/#6b0fbdd1e34b">Forbes</a></h3>
+                    <h3><strong><a href="https://www.forbes.com/sites/jlim/#6b0fbdd1e34b">Forbes</a></strong></h3>
                     <p><strong>About</strong> - A leading business media publication</p>
                     <p><strong>Work</strong> - I wrote ~120 stories about tech startups and innovation across Asia, Australia and Silicon Valley</p>
                     <p><strong>Impact</strong> - Amassed 480K+ readers and 600K+ views</p>
@@ -52,7 +52,7 @@ class Work extends Component {
                     <div><img src={CitusDataLogo} className="CitusDataLogo" alt="CitusDataLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://citusdata.com">Citus Data</a></h3>
+                    <h3><strong><a href="http://citusdata.com">Citus Data</a></strong></h3>
                     <p><strong>About</strong> - A YC Postgres database startup that provides massive scale and speed</p>
                     <p><strong>Work</strong> - I wrote 5 customer stories, 3 technical blog posts, re-designed the newsletter</p>
                     <p><strong>Impact</strong> - Drove 300 webpage views and armed the Sales team with fresh customer stories </p>
@@ -70,7 +70,7 @@ class Work extends Component {
                     <div><img src={OrionVMLogo} className="OrionVMLogo" alt="OrionVMLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://orionvm">OrionVM</a></h3>
+                    <h3><strong><a href="http://orionvm">OrionVM</a></strong></h3>
                     <p><strong>About</strong> - A wholesale HyperCloud IaaS startup</p>
                     <p><strong>Work</strong> - I helped create blog content to grow thought leadership</p>
                     <p><strong>Impact</strong> - XXX </p>
@@ -84,7 +84,7 @@ class Work extends Component {
                     <div><img src={AmpdEnergyLogo} className="AmpdEnergyLogo" alt="AmpdEnergyLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://ampd.energy">Ampd Energy</a></h3>
+                    <h3><strong><a href="http://ampd.energy">Ampd Energy</a></strong></h3>
                     <p><strong>About</strong> - An energy storage startup from Hong Kong</p>
                     <p><strong>Work</strong> - I helped to get coverage on Forbes and Engadget</p>
                     <p><strong>Impact</strong> - Drove 2K+ page-views to the website and created global brand recognition </p>
@@ -99,7 +99,7 @@ class Work extends Component {
                     <div><img src={OriginalStitchLogo} className="OriginalStitchLogo" alt="OriginalStitchLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://originalstitch.com">Original Stitch</a></h3>
+                    <h3><strong><a href="http://originalstitch.com">Original Stitch</a></strong></h3>
                     <p><strong>About</strong> - An online men’s tailored shirt startup </p>
                     <p><strong>Work</strong> - Designed and wrote copy for a dozen email marketing and onboarding campaigns</p>
                     <p><strong>Impact</strong> - Achieved peak of 31% click through on Call to Action and 53% Purchase conversion </p>
@@ -110,7 +110,7 @@ class Work extends Component {
                     <div><img src={GoBoldLogo} className="GoBoldLogo" alt="GoBoldLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://gobold.com">Bold</a></h3>
+                    <h3><strong><a href="http://gobold.com">Bold</a></strong></h3>
                     <p><strong>About</strong> - A mass payout payments startup </p>
                     <p><strong>Work</strong> - Refined brand position, devised a go-to-market media strategy and wrote 2 targeted press releases</p>
                     <p><strong>Impact</strong> - Unified team on message </p>
@@ -123,7 +123,7 @@ class Work extends Component {
                     <div><img src={GWCLogo} className="GWCLogo" alt="GWCLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://www.thegsummit.org/">G Summit by Great Wall Club</a></h3>
+                    <h3><strong><a href="http://www.thegsummit.org/">G Summit by Great Wall Club</a></strong></h3>
                     <p><strong>About</strong> - An exclusive Science and Tech Conference run by Great Wall Club</p>
                     <p><strong>Work</strong> - Advised on event strategy and marketing, wrote website messaging, newsletters, press-releases  </p>
                     <p><strong>Impact</strong> - Efforts led to a sold out conference with tickets costing up to $10K </p>
@@ -135,7 +135,7 @@ class Work extends Component {
                     <div><img src={CeleryLogo} className="CeleryLogo" alt="CeleryLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="https://www.trycelery.com/">Celery</a></h3>
+                    <h3><strong><a href="https://www.trycelery.com/">Celery</a></strong></h3>
                     <p><strong>About</strong> - A YC pre-order sales management startup</p>
                     <p><strong>Work</strong> -  I wrote marketing content and designed an outreach strategy</p>
                     <p><strong>Impact</strong> - Drove ~13K views to the brand </p>
@@ -147,7 +147,7 @@ class Work extends Component {
                     <div><img src={AppAnnieLogo} className="AppAnnieLogo" alt="AppAnnieLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><a href="http://appannie.com">App Annie</a></h3>
+                    <h3><strong><a href="http://appannie.com">App Annie</a></strong></h3>
                     <p><strong>About</strong> - The leading mobile app analytics company</p>
                     <p><strong>Work</strong> -  Advised on content strategy, worked with analysts to create insightful stories with data </p>
                     <p><strong>Impact</strong> - Helped App Annie generate its first set of rich content to drive credibility in the market  </p>
@@ -164,7 +164,7 @@ class Work extends Component {
                   <div><img src={TechNodeLogo} className="TechNodeLogo" alt="TechNodeLogo" /></div>
                  </Col>
                 <Col xs={12} md={9}>
-                  <h3><a href="http://technode.com">TechNode</a></h3>
+                  <h3><strong><a href="http://technode.com">TechNode</a></strong></h3>
                   <p><strong>About</strong> - A leading independent bi-lingual tech media in Asia</p>
                   <p><strong>Achievements</strong></p>
                     <li>One of the most respected grass-roots media in China</li>
@@ -179,7 +179,7 @@ class Work extends Component {
                   <div><img src={KoombahLogo} className="KoombahLogo" alt="KoombahLogo" /></div>
                  </Col>
                 <Col xs={12} md={9}>
-                  <h3>Koombah</h3>
+                  <h3><strong>Koombah</strong></h3>
                   <p><strong>About</strong> - An Online to Offline residential rental service to help expats find and move into Beijing (operated for ~3 years)</p>
                   <p><strong>Achievements</strong> -  Helped hundreds of clients to smoothly settle into a new home in Beijing including corporate ones like Disney English</p>
                   <p><strong>Referral</strong> - “We wouldn’t have known what to do without them.” Aly. S</p>
@@ -190,7 +190,7 @@ class Work extends Component {
                   <div><img src={AsiaReconLogo} className="AsiaReconLogo" alt="AsiaReconLogo" /></div>
                  </Col>
                 <Col xs={12} md={9}>
-                  <h3><a href="http://asiarecon.com">AsiaRecon</a></h3>
+                  <h3><strong><a href="http://asiarecon.com">AsiaRecon</a></strong></h3>
                   <p><strong>About</strong> - An organization to help connect people, ideas and capital in Asia</p>
                   <p><strong>Achievements</strong></p>
                     <li>Successfully ran a tech tour to Singapore, Shanghai and Beijing for 15 delegates including government, entrepreneurs and investors</li>
