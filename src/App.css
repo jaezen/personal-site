@@ -1,7 +1,6 @@
 .App {
   text-align: center;
-  font-family:sans-serif;
-  font: arial;
+  font-family: 'Rubik', sans-serif;
 }
 
 .App-logo {
@@ -45,8 +44,8 @@
 }
 
 .navbar-default a {
-  font-family: helvetica;
+  font-family: 'Rubik', sans-serif;
   font-weight: bold;
   font-size: 20px;
-  color: #645B5D;
+  color: #E80C20;
 }
