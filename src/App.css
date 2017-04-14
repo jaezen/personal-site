@@ -3,11 +3,13 @@
   font-family: 'Rubik', sans-serif;
 }
 
-.App-logo {
+.AppLogo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
   align-self:left;
+  color: #E80C20;
 }
+
 
 .App-header {
   background-color: #222;
