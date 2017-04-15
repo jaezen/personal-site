@@ -90,8 +90,8 @@ class Work extends Component {
                     <p><strong>IMPACT</strong> - Drove 2K+ page-views to the website and created global brand recognition </p>
                     <p><strong>SAMPLES</strong></p>
                       <li><a href="https://www.engadget.com/2017/01/06/ampd-energy-hopes-to-make-pollution-prone-diesel-generators-obs/">Ampd Energy hopes to make pollution-prone diesel generators obsolete</a></li>
-                      <li>Brandon Ng, CEO of Ampd Energy named one of Forbes Asia Under 30</li>
-                    <p><strong>REFERRAL</strong> - Brandon Ng</p>
+                      <li><a href="https://www.forbes.com/profile/brandon-ng/">Brandon Ng, CEO of Ampd Energy named one of Forbes Asia Under 30 in Industry, Manufacturing and Energy</a></li>
+                    <p><strong>REFERRAL</strong>"Jason has been instrumental in developing Ampd Energy's PR strategy and has followed through with executing that strategy aggressively, compellingly and with the speedy efficiency with which a Japanese samurai with a forged, high-carbon steel katana slices through a watermelon. Ampd Energy, unusually as a startup company, specializes in the engineering, manufacturing and marketing of advanced energy storage devices for enterprise and industrial applications. Yet Jason has developed a detailed understanding of the challenges, competitive landscape and pressure points in this market sector, and achieves a high conversion rate by considering story angles from the viewpoints of the media professionals he pitches to. Finally, Jason brings with him, a delectable Aussie charm that makes him easy and a blast to work with." - Brandon Ng, CEO, Ampd Energy</p>
                   </Col>
                 </Row>
                 <Row className="Client">
