@@ -27,7 +27,7 @@ class Work extends Component {
     return (
       <div className="Work">
         <div className="Work-header"></div>
-          <h1 className="Heading">CLENTS + CREATION</h1>
+          <h1 className="Heading">CLIENTS + CREATION</h1>
           <div className="Content">
             <h2><strong>Companies I have helped</strong></h2>
               <Grid className="Grid">
