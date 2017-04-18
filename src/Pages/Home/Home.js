@@ -13,7 +13,6 @@ class Home extends Component {
             <Jumbotron className="Jumbotron">
             <h1>I <strong>solve</strong> fuzzy marketing <strong>problems</strong></h1>
               <p>From YC startups to globally listed leaders</p>
-              &#9660;
             </Jumbotron>
             <div className="heroImg">
               <img src={wallLean} className="wallLean" alt="wallLean" />

@@ -55,7 +55,10 @@ class Work extends Component {
                     <h3><strong><a href="http://citusdata.com">Citus Data</a></strong></h3>
                     <p><strong>ABOUT</strong> - A YC Postgres database startup that provides massive scale and speed</p>
                     <p><strong>WORK</strong> - I wrote 5 customer stories, 3 technical blog posts, re-designed the newsletter</p>
-                    <p><strong>IMPACT</strong> - Drove 300 webpage views and armed the Sales team with fresh customer stories </p>
+                    <p><strong>IMPACT</strong></p>
+                      <li>Drove thousands of webpage views and armed the Sales team with fresh customer stories</li>
+                      <li>Recommended website redesign and messaging improvements</li>
+                      <li>Re-designed the corporate newsletter to increase conversions by 2% MoM</li>    
                     <p><strong>SAMPLES</strong></p>
                       <li><a href="https://www.citusdata.com/blog/2017/03/15/a-look-at-isolating-tenants/">A Look at Isolating Tenants To Improve Database Performance</a></li>
                       <li><a href="https://www.citusdata.com/blog/2017/03/23/a-look-into-disaster-recovery-and-high-availability-and-how-they-work-with-postgres-on-citus-cloud/">How we implement Disaster Recovery and High Availability with Postgres on Citus Cloud</a></li>
@@ -91,7 +94,7 @@ class Work extends Component {
                     <p><strong>SAMPLES</strong></p>
                       <li><a href="https://www.engadget.com/2017/01/06/ampd-energy-hopes-to-make-pollution-prone-diesel-generators-obs/">Ampd Energy hopes to make pollution-prone diesel generators obsolete</a></li>
                       <li><a href="https://www.forbes.com/profile/brandon-ng/">Brandon Ng, CEO of Ampd Energy named one of Forbes Asia Under 30 in Industry, Manufacturing and Energy</a></li>
-                    <p><strong>REFERRAL</strong>"Jason has been instrumental in developing Ampd Energy's PR strategy and has followed through with executing that strategy aggressively, compellingly and with the speedy efficiency with which a Japanese samurai with a forged, high-carbon steel katana slices through a watermelon. Ampd Energy, unusually as a startup company, specializes in the engineering, manufacturing and marketing of advanced energy storage devices for enterprise and industrial applications. Yet Jason has developed a detailed understanding of the challenges, competitive landscape and pressure points in this market sector, and achieves a high conversion rate by considering story angles from the viewpoints of the media professionals he pitches to. Finally, Jason brings with him, a delectable Aussie charm that makes him easy and a blast to work with." - Brandon Ng, CEO, Ampd Energy</p>
+                    <p><strong>REFERRAL</strong> - "Jason has been instrumental in developing Ampd Energy's PR strategy and has followed through with executing that strategy aggressively, compellingly and with the speedy efficiency with which a Japanese samurai with a forged, high-carbon steel katana slices through a watermelon. Ampd Energy, unusually as a startup company, specializes in the engineering, manufacturing and marketing of advanced energy storage devices for enterprise and industrial applications. Yet Jason has developed a detailed understanding of the challenges, competitive landscape and pressure points in this market sector, and achieves a high conversion rate by considering story angles from the viewpoints of the media professionals he pitches to. Finally, Jason brings with him, a delectable Aussie charm that makes him easy and a blast to work with." - Brandon Ng, CEO, Ampd Energy</p>
                   </Col>
                 </Row>
                 <Row className="Client">
