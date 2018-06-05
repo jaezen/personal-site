@@ -9,7 +9,7 @@ import 'bootstrap/less/bootstrap.less';
 import { Navbar,Nav,NavItem,Jumbotron,Button,Grid,Col,Row} from 'react-bootstrap';
 
 
-import talkSpiritLogo from './Images/talkSpiritLogo.jpg';
+import talkSpiritLogo from './Images/talkSpiritLogo.png';
 import ForbesLogo from './Images/ForbesLogo.jpg';
 import CitusDataLogo from './Images/CitusDataLogo.png';
 import OrionVMLogo from './Images/OrionVMLogo.png';
