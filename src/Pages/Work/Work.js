@@ -8,7 +8,7 @@ import './Work.css';
 import 'bootstrap/less/bootstrap.less';
 import { Navbar,Nav,NavItem,Jumbotron,Button,Grid,Col,Row} from 'react-bootstrap';
 
-
+import PingcapLogo from './Images/PingcapLogo.png';
 import talkSpiritLogo from './Images/talkSpiritLogo.png';
 import ForbesLogo from './Images/ForbesLogo.jpg';
 import CitusDataLogo from './Images/CitusDataLogo.png';
@@ -32,6 +32,18 @@ class Work extends Component {
           <div className="Content">
             <h2><strong>Companies I have helped</strong></h2>
               <Grid className="Grid">
+                <Row className="Client">
+                   <Col xs={4} md={3}>
+                    <div><img src={PingcapLogo} className="PingcapLogo" alt="PingcapLogo" /></div>
+                   </Col>
+                  <Col xs={12} md={9}>
+                    <h3><strong><a href="https://pingcap.com">PingCap</a></strong></h3>
+                    <p><strong>ABOUT</strong> - A Chinese NewSQL database startup</p>
+                    <p><strong>WORK</strong> - I implemented the marketing demand generation system</p>
+                    <p><strong>IMPACT</strong> - Enabled PingCap to capture and manage B2B sales leads</p>
+                    <p><strong>REFERRAL</strong> Kevin Xu</p>
+                  </Col>
+                </Row>
                 <Row className="Client">
                    <Col xs={4} md={3}>
                     <div><img src={talkSpiritLogo} className="talkSpiritLogo" alt="talkSpiritLogo" /></div>
