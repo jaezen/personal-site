@@ -22,9 +22,8 @@
   font-size: 50;
   color: black;
   background-color: white;
-  vertical-align: middle;
+  flex-direction: row;
 }
-
 
 .App-intro {
   font-size: large;

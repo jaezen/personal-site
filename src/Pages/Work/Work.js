@@ -37,7 +37,7 @@ class Work extends Component {
                     <div><img src={PingcapLogo} className="PingcapLogo" alt="PingcapLogo" /></div>
                    </Col>
                   <Col xs={12} md={9}>
-                    <h3><strong><a href="https://pingcap.com">PingCap</a></strong></h3>
+                    <h3><strong><a href="https://pingcap.com">PingCAP</a></strong></h3>
                     <p><strong>ABOUT</strong> - A Chinese NewSQL database startup</p>
                     <p><strong>WORK</strong> - I implemented the marketing demand generation system</p>
                     <p><strong>IMPACT</strong> - Enabled PingCap to capture and manage B2B sales leads</p>

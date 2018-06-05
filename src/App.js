@@ -23,7 +23,7 @@ import Connect from './Pages/Connect/Connect';
 
 const Footer = () => (
   <div className="Footer">
-   <p>© 2017 jaezen. All Rights Reserved.</p>
+   <p>© 2018 jaezen. All Rights Reserved.</p>
   </div>
 );
 
