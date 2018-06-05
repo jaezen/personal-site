@@ -9,6 +9,7 @@ import 'bootstrap/less/bootstrap.less';
 import { Navbar,Nav,NavItem,Jumbotron,Button,Grid,Col,Row} from 'react-bootstrap';
 
 
+import talkSpiritLogo from './Images/talkSpiritLogo.jpg';
 import ForbesLogo from './Images/ForbesLogo.jpg';
 import CitusDataLogo from './Images/CitusDataLogo.png';
 import OrionVMLogo from './Images/OrionVMLogo.png';
@@ -31,6 +32,27 @@ class Work extends Component {
           <div className="Content">
             <h2><strong>Companies I have helped</strong></h2>
               <Grid className="Grid">
+                <Row className="Client">
+                   <Col xs={4} md={3}>
+                    <div><img src={talkSpiritLogo} className="talkSpiritLogo" alt="talkSpiritLogo" /></div>
+                   </Col>
+                  <Col xs={12} md={9}>
+                    <h3><strong><a href="https://talkspirit.com/">talkSpirit</a></strong></h3>
+                    <p><strong>ABOUT</strong> - A French B2B communication and collaboration tech company</p>
+                    <p><strong>WORK</strong> - I wrote several blog posts about the reasons and benefits of using talkSpirit for organizations</p>
+                    <p><strong>IMPACT</strong> - Drove hundreds of views to the blog, enhancing SEO value to the main website</p>
+                    <p><strong>SAMPLES</strong></p>
+                      <li><a href="https://blog.talkspirit.com/en/get-all-the-work-news-you-need-anytime/">Get all the work news you need anytime</a></li>
+                      <li><a href="https://blog.talkspirit.com/en/build-community-through-communication/">Build community through communication</a></li>
+                    <p><strong>REFERRAL</strong> "Everything started with the idea to transform our company blog into a vicious acquisition powerhouse. The concept was simple and straight-forward: to push new quality content on a consistent basis. There is, however, obviously a first time for everything, and considering we were initially sailing in somewhat uncharted waters, there was logically a learning curve going on. This is where Jason came in; providing significant value from day one. In a nutshell, Jason was able to:
+<li>I.	Provide quality content in line with our expectations </li>
+<li>II.	Quickly grasp the delicacies of our specific industry </li>
+<li>III.	Work independently without the need for on-going support </li>
+<li>IV.	Help improve the overall working process; leading to better final end result </li>
+<li>V.	Always deliver on time, holding true to his promises </li>
+All in all, it is, and always has been, a true pleasure working with him. I would definitely recommend Jason to anyone who’s searching for specific quality content, any time of day."- Casper Koopman</p>
+                  </Col>
+                </Row>
                 <Row className="Client">
                    <Col xs={4} md={3}>
                     <div><img src={ForbesLogo} className="ForbesLogo" alt="ForbesLogo" /></div>
@@ -58,7 +80,7 @@ class Work extends Component {
                     <p><strong>IMPACT</strong></p>
                       <li>Drove thousands of webpage views and armed the Sales team with fresh customer stories</li>
                       <li>Recommended website redesign and messaging improvements</li>
-                      <li>Re-designed the corporate newsletter to increase conversions by 2% MoM</li>    
+                      <li>Re-designed the corporate newsletter to increase conversions by 2% MoM</li>
                     <p><strong>SAMPLES</strong></p>
                       <li><a href="https://www.citusdata.com/blog/2017/03/15/a-look-at-isolating-tenants/">A Look at Isolating Tenants To Improve Database Performance</a></li>
                       <li><a href="https://www.citusdata.com/blog/2017/03/23/a-look-into-disaster-recovery-and-high-availability-and-how-they-work-with-postgres-on-citus-cloud/">How we implement Disaster Recovery and High Availability with Postgres on Citus Cloud</a></li>
