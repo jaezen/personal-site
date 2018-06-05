@@ -44,7 +44,7 @@ class Work extends Component {
                     <p><strong>SAMPLES</strong></p>
                       <li><a href="https://blog.talkspirit.com/en/get-all-the-work-news-you-need-anytime/">Get all the work news you need anytime</a></li>
                       <li><a href="https://blog.talkspirit.com/en/build-community-through-communication/">Build community through communication</a></li>
-                    <p><strong>REFERRAL</strong> "All in all, it is, and always has been, a true pleasure working with him. I would definitely recommend Jason to anyone who’s searching for specific quality content, any time of day."- Casper Koopman</p>
+                    <p><strong>REFERRAL</strong> "All in all, it is, and always has been, a true pleasure working with him. I would definitely recommend Jason to anyone who’s searching for specific quality content, any time of day." - Casper Koopman</p>
                   </Col>
                 </Row>
                 <Row className="Client">
