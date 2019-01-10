@@ -12,7 +12,6 @@ import PingcapLogo from './Images/PingcapLogo.png';
 import talkSpiritLogo from './Images/talkSpiritLogo.png';
 import ForbesLogo from './Images/ForbesLogo.jpg';
 import CitusDataLogo from './Images/CitusDataLogo.png';
-import OrionVMLogo from './Images/OrionVMLogo.png';
 import AmpdEnergyLogo from './Images/AmpdEnergyLogo.jpg';
 import OriginalStitchLogo from './Images/OriginalStitchLogo.png';
 import GoBoldLogo from './Images/GoBoldLogo.png';
@@ -41,7 +40,7 @@ class Work extends Component {
                     <p><strong>ABOUT</strong> - A Chinese NewSQL database startup</p>
                     <p><strong>WORK</strong> - I implemented the marketing demand generation system</p>
                     <p><strong>IMPACT</strong> - Enabled PingCap to capture and manage B2B sales leads</p>
-                    <p><strong>REFERRAL</strong> Kevin Xu</p>
+                    <p><strong>REFERRAL</strong> "Jason was a superb product marketing consultant for us at PingCAP, when we were at the very beginning of building out our entire operation in North America. He was strategic, detail-oriented, and helped us build out several online marketing and content marketing processes that we still use today. We are very grateful for his help, and highly recommend his service and skills." Kevin Xu, GM of Global Strategy & Operations</p>
                   </Col>
                 </Row>
                 <Row className="Client">
@@ -94,20 +93,6 @@ class Work extends Component {
                       <li><a href="https://www.citusdata.com/customers/convertflow">ConvertFlow Delivers Real-Time Analytics to Marketers Using Citus</a></li>
                       <li><a href="https://www.citusdata.com/customers/kixer">Kixer Uses Citus To Manage Vital Analytics for Web Publishers and Internal Business Metrics</a></li>
                     <p><strong>REFERRAL</strong> - Craig Kierstens</p>
-                  </Col>
-                </Row>
-                <Row className="Client">
-                   <Col xs={4} md={3}>
-                    <div><img src={OrionVMLogo} className="OrionVMLogo" alt="OrionVMLogo" /></div>
-                   </Col>
-                  <Col xs={12} md={9}>
-                    <h3><strong><a href="http://orionvm">OrionVM</a></strong></h3>
-                    <p><strong>ABOUT</strong> - A wholesale HyperCloud IaaS startup</p>
-                    <p><strong>WORK</strong> - I helped create blog content to grow thought leadership</p>
-                    <p><strong>IMPACT</strong> - XXX </p>
-                    <p><strong>SAMPLES</strong></p>
-                      <li>XXX</li>
-                    <p><strong>REFERRAL</strong> - Daniel Pfeiffer</p>
                   </Col>
                 </Row>
                 <Row className="Client">
