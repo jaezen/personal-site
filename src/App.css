@@ -23,6 +23,8 @@
   color: black;
   background-color: white;
   flex-direction: row;
+  justify-content: flex-end;
+  padding: 20px;
 }
 
 .App-intro {
