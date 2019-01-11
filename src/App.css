@@ -44,6 +44,7 @@
 
 .navbar-default {
   background-color: white;
+  flex-direction: row;
 }
 
 .navbar-default a {
