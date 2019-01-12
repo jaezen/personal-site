@@ -22,7 +22,7 @@
   font-size: 50;
   color: black;
   background-color: white;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: flex-end;
   padding: 20px;
 }
@@ -44,7 +44,6 @@
 
 .navbar-default {
   background-color: white;
-  flex-direction: row;
 }
 
 .navbar-default a {
