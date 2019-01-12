@@ -39,7 +39,7 @@ class App extends Component {
                   <Link className="App-myLink" to="/">jaezen</Link>
                 </Navbar.Brand>
               </Navbar.Header>
-              <Nav pullRight>
+              <Nav className ="navMenu">
                  <NavItem><Link className="App-myLink" to="/work">Work</Link></NavItem>
                  <NavItem><Link className="App-myLink" to="/services">Services</Link></NavItem>
                  <NavItem><Link className="App-myLink" to="/blog">Blog</Link></NavItem>

@@ -18,13 +18,12 @@
   color: white;
 }
 
-.Navbar{
-  font-size: 50;
-  color: black;
-  background-color: red;
-  flex-direction: column;
-  justify-content: flex-end;
-  padding: 20px;
+.navMenu{
+  width: 500px;
+  background-color: white;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 50px;
 }
 
 .App-intro {
