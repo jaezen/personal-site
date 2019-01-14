@@ -1,6 +1,6 @@
 .Jumbotron{
-  margin-top: 60px;
-  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 5px;
   background-color: white;
   font-family: 'Rubik', sans-serif;
   color: #0D2AD1;
@@ -9,5 +9,6 @@
 .wallLean{
   height: 550px;
   width: 800px;
+  margin-top: 5px;
   margin-bottom: 30px;
 }
